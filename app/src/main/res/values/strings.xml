@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceProject</string>
+    <string name="starandtstop">使用startService()和stopService()启动和关闭Service时，
+ Service和访问者之间基本上不存在太多关联，因此Service和访问者之间也无法进行通信、数据交换;所以，如果Service和访问者之间需要进行方法调用和数据交换时，应该使用bindService()和unbindService()</string>
+</resources>
